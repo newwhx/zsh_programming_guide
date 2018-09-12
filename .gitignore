@@ -1,0 +1,9 @@
+_book
+*~
+.*~
+.*.swp
+*~
+node_modules/
+*.mobi
+*.epub
+*.pdf

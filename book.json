@@ -1,0 +1,7 @@
+{
+    "title": "zsh编程指南",
+    "description": "zsh编程指南",
+    "plugins": [
+        "theme-comscore"
+    ]
+}
